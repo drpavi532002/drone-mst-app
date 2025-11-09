@@ -9,8 +9,8 @@ Built using **Python**, **Streamlit**, **NetworkX**, and **Matplotlib**.
 
 ## 🌍 Live Demo
 
-🔗 **Try it here:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)  
-*(Replace with your actual Streamlit link after deployment)*
+🔗 **Try it here:** [https://drone_mst_app.streamlit.app](https://drone_mst_app.streamlit.app)  
+
 
 ---
 
@@ -32,11 +32,4 @@ Prim’s algorithm builds a minimum spanning tree by:
 2. Repeatedly adding the smallest edge connecting a visited node to an unvisited node.
 3. Continuing until all nodes are connected with minimum total cost.
 
----
 
-## 🚀 How to Run Locally
-
-### 1️⃣ Clone this repository:
-```bash
-git clone https://github.com/your-username/drone-mst-app.git
-cd drone-mst-app
