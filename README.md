@@ -9,7 +9,8 @@ Built using **Python**, **Streamlit**, **NetworkX**, and **Matplotlib**.
 
 ## 🌍 Live Demo
 
-🔗 **Try it here:** [https://drone_mst_app.streamlit.app](https://drone_mst_app.streamlit.app)  
+🔗 🔗 Try it here: [https://drone-mst-app-kjtar6jczpsbhhsjacoilg.streamlit.app](https://drone-mst-app-kjtar6jczpsbhhsjacoilg.streamlit.app)
+ 
 
 
 ---
